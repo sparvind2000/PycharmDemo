@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('This a remote master change test for PyCharm')
+    print_hi('This a remote master change test for PyCharm') #local change
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
